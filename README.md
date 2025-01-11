@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+Yu-Gi-Oh: Card Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Descrição
+O Yu-Gi-Oh: Card Finder é uma aplicação web desenvolvida em React que permite aos usuários buscar e visualizar informações detalhadas sobre cartas do jogo Yu-Gi-Oh!. Com uma interface intuitiva, os usuários podem pesquisar cartas por nome, tipo, atributo e outros filtros, facilitando a construção de decks e o estudo de estratégias.
 
-## Available Scripts
+Funcionalidades
+Busca de Cartas: Pesquise cartas por nome, tipo, atributo e outros critérios.
+Detalhes da Carta: Visualize informações detalhadas de cada carta, incluindo descrição, ataque, defesa e nível.
+Favoritos: Adicione cartas à sua lista de favoritos para referência rápida.
+Responsivo: Interface adaptada para diversos dispositivos, garantindo uma experiência consistente em desktops e dispositivos móveis.
+Tecnologias Utilizadas
+React: Biblioteca JavaScript para construção de interfaces de usuário.
+Create React App: Ferramenta para inicializar projetos React rapidamente.
+API de Cartas Yu-Gi-Oh!: Fonte de dados para as informações das cartas.
+Instalação
+Clone o repositório:
 
-In the project directory, you can run:
+bash
+Copiar código
+git clone https://github.com/marcossroma/Yu-Gi-Oh.git
+Navegue até o diretório do projeto:
 
-### `npm start`
+bash
+Copiar código
+cd Yu-Gi-Oh
+Instale as dependências:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+bash
+Copiar código
+npm install
+Uso
+Após a instalação, você pode executar a aplicação localmente:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+bash
+Copiar código
+npm start
+Abra http://localhost:3000 no seu navegador para visualizar a aplicação.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests. Para mudanças significativas, por favor, abra uma issue primeiro para discutir o que você gostaria de alterar.
