@@ -1,47 +1,41 @@
 Yu-Gi-Oh: Card Finder 🎴
-O Yu-Gi-Oh: Card Finder é uma aplicação web desenvolvida em React, projetada para facilitar a busca e visualização de informações detalhadas sobre cartas do jogo Yu-Gi-Oh!. Com uma interface amigável e responsiva, os usuários podem explorar cartas por diferentes critérios, ajudando na construção de decks e no planejamento de estratégias.
+O Yu-Gi-Oh: Card Finder é uma aplicação web desenvolvida em React que permite buscar e visualizar informações detalhadas sobre cartas do famoso jogo Yu-Gi-Oh!. A interface é intuitiva e adaptável, ideal para usuários que desejam construir decks ou explorar cartas com base em critérios específicos.
 
+📚 Descrição
+Com o Yu-Gi-Oh: Card Finder, você pode:
+
+🔍 Pesquisar cartas usando filtros como nome, tipo e atributo.
+📜 Visualizar informações completas de cada carta, incluindo Ataque, Defesa, e efeitos.
+⭐ Criar uma lista de favoritos para organizar suas cartas preferidas.
+📱 Usar a aplicação em qualquer dispositivo, graças à interface responsiva.
 ✨ Funcionalidades
-🔍 Busca de Cartas: Encontre cartas por nome, tipo, atributo e outros filtros.
-📜 Detalhes da Carta: Visualize descrições completas, incluindo Ataque, Defesa, Nível e muito mais.
-⭐ Favoritos: Adicione cartas à sua lista de favoritos para acesso rápido.
-📱 Interface Responsiva: Experiência otimizada para desktop e dispositivos móveis.
+Busca Avançada de Cartas: Encontre cartas por diferentes critérios.
+Detalhes Completo das Cartas: Informações detalhadas, incluindo atributos, descrições, e efeitos especiais.
+Lista de Favoritos: Salve suas cartas preferidas para fácil acesso.
+Interface Responsiva: Compatível com desktops, tablets e smartphones.
 🛠 Tecnologias Utilizadas
-⚛️ React: Biblioteca JavaScript para construção de interfaces modernas e dinâmicas.
-🚀 Create React App: Ferramenta para inicialização rápida de projetos React.
-🃏 API de Cartas Yu-Gi-Oh!: Fonte de dados oficial para as informações das cartas.
+React: Para criar interfaces de usuário dinâmicas.
+Create React App: Para inicializar e estruturar o projeto rapidamente.
+API de Cartas Yu-Gi-Oh!: Fonte de dados oficial para as cartas.
 📥 Instalação
-Siga os passos abaixo para rodar o projeto localmente:
+Siga as etapas abaixo para rodar o projeto localmente:
 
-Clone o repositório:
-
+1️⃣ Clone o repositório:
 bash
 Copiar código
 git clone https://github.com/marcossroma/Yu-Gi-Oh.git
-Acesse o diretório do projeto:
-
+2️⃣ Navegue até o diretório do projeto:
 bash
 Copiar código
 cd Yu-Gi-Oh
-Instale as dependências:
-
+3️⃣ Instale as dependências:
 bash
 Copiar código
 npm install
-Inicie o servidor local:
-
+4️⃣ Execute o projeto localmente:
 bash
 Copiar código
 npm start
-Acesse no navegador:
-Abra http://localhost:3000 para visualizar o projeto.
+5️⃣ Acesse a aplicação no navegador:
+Abra http://localhost:3000.
 
-🤝 Contribuições
-Contribuições são super bem-vindas! 🎉
-
-💡 Abra uma issue para relatar bugs, sugerir melhorias ou novas funcionalidades.
-🔧 Envie um pull request para colaborar diretamente no código.
-📝 Para mudanças significativas, discuta primeiro na aba de issues.
-📜 Licença
-Este projeto está licenciado sob a Licença MIT.
-Confira o arquivo LICENSE para mais detalhes.
