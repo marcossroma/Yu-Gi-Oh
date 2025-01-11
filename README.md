@@ -39,6 +39,7 @@ cd Yu-Gi-Oh
 bash
 Copiar código
 npm install
+
 4️⃣ Execute o projeto localmente:
 bash
 Copiar código
